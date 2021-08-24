@@ -1,0 +1,16 @@
+C:\Users\dev\Documents\GuilhermeAmorim\Condicionais\bin\Debug\net5.0\Condicionais.exe
+C:\Users\dev\Documents\GuilhermeAmorim\Condicionais\bin\Debug\net5.0\Condicionais.deps.json
+C:\Users\dev\Documents\GuilhermeAmorim\Condicionais\bin\Debug\net5.0\Condicionais.runtimeconfig.json
+C:\Users\dev\Documents\GuilhermeAmorim\Condicionais\bin\Debug\net5.0\Condicionais.runtimeconfig.dev.json
+C:\Users\dev\Documents\GuilhermeAmorim\Condicionais\bin\Debug\net5.0\Condicionais.dll
+C:\Users\dev\Documents\GuilhermeAmorim\Condicionais\bin\Debug\net5.0\ref\Condicionais.dll
+C:\Users\dev\Documents\GuilhermeAmorim\Condicionais\bin\Debug\net5.0\Condicionais.pdb
+C:\Users\dev\Documents\GuilhermeAmorim\Condicionais\obj\Debug\net5.0\Condicionais.csproj.AssemblyReference.cache
+C:\Users\dev\Documents\GuilhermeAmorim\Condicionais\obj\Debug\net5.0\Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\GuilhermeAmorim\Condicionais\obj\Debug\net5.0\Condicionais.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\GuilhermeAmorim\Condicionais\obj\Debug\net5.0\Condicionais.AssemblyInfo.cs
+C:\Users\dev\Documents\GuilhermeAmorim\Condicionais\obj\Debug\net5.0\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\GuilhermeAmorim\Condicionais\obj\Debug\net5.0\Condicionais.dll
+C:\Users\dev\Documents\GuilhermeAmorim\Condicionais\obj\Debug\net5.0\ref\Condicionais.dll
+C:\Users\dev\Documents\GuilhermeAmorim\Condicionais\obj\Debug\net5.0\Condicionais.pdb
+C:\Users\dev\Documents\GuilhermeAmorim\Condicionais\obj\Debug\net5.0\Condicionais.genruntimeconfig.cache
